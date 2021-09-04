@@ -1,7 +1,7 @@
 # Movie-Recommendation-System-with-Python
 
-The procedures are : 
- ->Collect Dataset from https://grouplens.org/datasets/movielens/ 
+## The procedures are : 
+ /n->Collect Dataset from https://grouplens.org/datasets/movielens/ 
  -> Do an Exploratory Data Analysis
  -> Find the necessity of the rating count as well as the average rating
  -> Do the correlation for a particular movie
